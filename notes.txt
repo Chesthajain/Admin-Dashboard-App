@@ -1,1 +1,5 @@
-npm create
+npm create vite@latest
+extension - VS Code ES7 React/Redux/React
+pretty typscript errors
+
+npm i react-router-dom sass react-icons
