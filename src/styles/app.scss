@@ -1,3 +1,5 @@
+
+@use "_mixin";
 :root {
     font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
     line-height: 1.5;
@@ -25,5 +27,3 @@
 .green {
   color: rgb(0, 195, 0);
 }
-
-
