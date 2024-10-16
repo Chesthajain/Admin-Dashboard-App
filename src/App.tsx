@@ -6,6 +6,7 @@ const Dashboard = lazy(() => import("./pages/dashboard"));
 const Products = lazy(() => import("./pages/products"));
 const Transaction= lazy(() => import("./pages/transaction"));
 const Customer = lazy(() => import("./pages/customer"));
+
 const App = () => {
   return (
     <Router>
