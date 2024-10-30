@@ -8,4 +8,3 @@ npm install chart.js react-chartjs-2
 npm run dev
 
 
-testing....
