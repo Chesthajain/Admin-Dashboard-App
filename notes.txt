@@ -6,3 +6,6 @@ npm i react-router-dom sass react-icons
 npm install react-table
 npm install chart.js react-chartjs-2
 npm run dev
+
+
+testing....
